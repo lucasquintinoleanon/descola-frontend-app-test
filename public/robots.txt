@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://descola.org/sitemap.xml
+Sitemap: https://descola.org/sitemap.xml
