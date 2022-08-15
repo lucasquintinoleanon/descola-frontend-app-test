@@ -1,3 +1,3 @@
 [submodule "src/descola-frontend-components"]
 	path = src/descola-frontend-components
-	url = https://github.com/grpaiva/descola-frontend-components.git
+	url = git@github.com:grpaiva/descola-frontend-components.git
