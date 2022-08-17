@@ -5,7 +5,7 @@
         REACT_APP_CERTIFICATE = "https://certificados.descola.org/"
         REACT_APP_IS_POWER_FRIDAY_ACTIVE = "false"
         REACT_APP_PRIVATE = "https://app.descola.org"
-        REACT_APP_PUBLIC = "https://descola.org"
+        REACT_APP_PUBLIC = "https://descola.netlify.app"
 
 [context.branch-deploy]    
     [context.branch-deploy.environment]
