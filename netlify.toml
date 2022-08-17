@@ -17,14 +17,3 @@
         #TODO: fix these two urls
         REACT_APP_PRIVATE = "http://localhost:3001"
         REACT_APP_PUBLIC = "http://localhost:3000"
-
-[context.dev]    
-    [context.dev.environment]
-        REACT_APP_CDN = "https://cdn.descola.org/"
-        REACT_APP_API = "https://api-staging.descola.org/"
-        REACT_APP_CERTIFICATE = "https://certificados-staging.descola.org/"
-        REACT_APP_PAGAR_ME_KEY = "ek_test_vwf1z4x6i3KMK4hXyonPmAFzn1jTy8"
-        REACT_APP_IS_POWER_FRIDAY_ACTIVE = "false"
-        #TODO: fix these two urls
-        REACT_APP_PRIVATE = "http://localhost:3001"
-        REACT_APP_PUBLIC = "http://localhost:3000"
